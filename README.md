@@ -51,6 +51,7 @@
 * [Rainbow Brackets](https://plugins.jetbrains.com/plugin/10080-rainbow-brackets) => Stop losing your brackets
 * [SonarLint](https://plugins.jetbrains.com/plugin/7973-sonarlint) => Sonar directly in your IDE
 
-## Want more
+## Tech Watch
 
-Feel free to check [console.dev](https://console.dev/) to discover new tools.
+* [console.dev](https://console.dev/) => Neat mails to discover new tools
+* [daily.dev](https://daily.dev/) => All developer news in one place
