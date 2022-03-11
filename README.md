@@ -31,6 +31,7 @@
     * [git aliases](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/git) => Useful git aliases
     * [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) => Commands suggestions
     * [powerlevel10k](https://github.com/romkatv/powerlevel10k) => Nice theme
+* [fig](https://fig.io/) => IDE style autocompletion (mac only)
 * [oh-my-posh](https://ohmyposh.dev/) => A prompt theme engine for any shell
 * [the-fuck](https://github.com/nvbn/thefuck) => Corrects errors in previous console commands
 * [z jump](https://github.com/rupa/z) => Jump between your directories without aliases
