@@ -16,13 +16,14 @@
 
 * [Devtoys](https://github.com/veler/DevToys) / [DevtoysMac](https://github.com/ObuchiYuki/DevToysMac) => Swiss Army knife for devs
 * [Postman](https://www.postman.com/) => Manage and test APIs
-* [Ferdi](https://github.com/getferdi/ferdi) => Organize and manage your applications
+* [Ferdi](https://github.com/getferdi/ferdi) / [WebCatalog](https://webcatalog.io/webcatalog/) => Organize and manage your applications
 * [Jetbrains Toolbox](https://www.jetbrains.com/toolbox-app/) => Manage your jetbrain tools
 * [VSCode](https://code.visualstudio.com/) => Code editor
 * [iTerm2 (Mac)](https://iterm2.com/) / [Terminator(linux)](https://doc.ubuntu-fr.org/terminator) / [Windows Terminal](https://www.microsoft.com/fr-fr/p/windows-terminal/9n0dx20hk701?activetab=pivot:overviewtab) => Better terminal emulator
 * [dbeaver](https://dbeaver.io/) => Universal Database Tool
 * [Lens](https://k8slens.dev/) => The kubernetes IDE
 * [Docker Desktop](https://www.docker.com/products/docker-desktop) => Manage docker on windows and mac
+* [Rectangle](https://rectangleapp.com/) => Move and resize windows in macOS using keyboard shortcuts or snap areas
 
 ## CLI
 
