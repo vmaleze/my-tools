@@ -11,6 +11,7 @@
 * [Authy](https://authy.com/) => 2FA synchronized on multiple devices
 * [Bitwarden](https://bitwarden.com/) => Password manager
 * [Tab groups](https://www.google.com/chrome/tips/) => Chrome tab groups
+* [draw.io](https://app.diagrams.net/) / [Excalidraw](https://excalidraw.com/) => Virtual whiteboards
 
 ## Desktop
 
