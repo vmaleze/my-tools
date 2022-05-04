@@ -53,6 +53,7 @@
 * [Grep Console](https://plugins.jetbrains.com/plugin/7125-grep-console) => Better console viewer
 * [Rainbow Brackets](https://plugins.jetbrains.com/plugin/10080-rainbow-brackets) => Stop losing your brackets
 * [SonarLint](https://plugins.jetbrains.com/plugin/7973-sonarlint) => Sonar directly in your IDE
+* [CodeMetrics](https://plugins.jetbrains.com/plugin/12159-codemetrics) => Provides inlay indicators based on a customizable complexity calculation for Java files
 
 ## Tech Watch
 
