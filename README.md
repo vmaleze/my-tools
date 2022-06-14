@@ -43,6 +43,7 @@
 * [pyenv](https://github.com/pyenv/pyenv) => Python Version Manager
 * [bpytop](https://github.com/aristocratos/bpytop) => htop on steroïd
 * [bat](https://github.com/sharkdp/bat) => cat with wings
+* [sshs](https://github.com/quantumsheep/sshs) => Terminal UI for SSH management
 
 *Most of your IDEs offer cli integration. For exemple use `idea` for intellij or `code` for vscode to easily open project directly from your terminal*
 
